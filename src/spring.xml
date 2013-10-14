@@ -53,11 +53,6 @@
 
 
 	<!-- 实体配置 -->
-	<!-- 测试实体 -->
-	<bean name="mainTest" class="com.airticket.web.action.MainTest"></bean>
-	<bean name="dao" class="com.airticket.dao.BaseDao"></bean>
-
-	<!-- 项目实体 -->
 	<!-- 机票查询 -->
 	<bean name="flightSerchAction" class="com.airticket.web.action.FlightSerchAction"></bean>
 	<!-- 新增机票预订 -->
