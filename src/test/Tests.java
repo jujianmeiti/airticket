@@ -1,5 +1,5 @@
 package test;
 
-public class Cache {
+public class Tests {
 
 }
